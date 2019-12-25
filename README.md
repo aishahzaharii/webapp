@@ -1,13 +1,14 @@
+# RESTAURANT MANAGEMENT SYSTEM
 <h1>INFO 3305<h1>
 <h3>Section 1<h3>
 <h3>Al-Farawila<h3>
-<p> 
-<h6>SITI NUR AISHAH BINTI ZAHARI          1622420<h6>
-<h6>NURUL AMIRA BINTI ABDUL HALIM         1719162<h6>
-<h6>FATDZIRATUL AFIQAH BINTI ABDUL RADZI  1627808<h6>
-<h6>ANISSA MAISARAH BINTI MUHAMAD KHAIRI  1625318<h6>
+ 
+1. SITI NUR AISHAH BINTI ZAHARI          1622420
+2. NURUL AMIRA BINTI ABDUL HALIM         1719162
+3. FATDZIRATUL AFIQAH BINTI ABDUL RADZI  1627808
+4. ANISSA MAISARAH BINTI MUHAMAD KHAIRI  1625318
 
-<h1>1.1 INTRODUCTION<h1>
+## 1.1 INTRODUCTION
 
 Restaurant Management System is a system that provides service facility to the restaurant. This system will help restaurants to maintain the catalog for the list of food and drinks provided. The service provided by this system are food ordering, table reservation management, customer information management, menu information management and report. 
 
@@ -17,7 +18,7 @@ With this system, employees will be able to take orders and the order will be ke
 
 With this restaurant management system, ordering and reservation management will become easier and systematic. 
 
-<h1>1.2 OBJECTIVE<h1> 
+## 1.2 OBJECTIVE 
 
 The objective of Restaurant Management System:
 
@@ -26,7 +27,7 @@ The objective of Restaurant Management System:
 3.	To keep the update (add and delete) of the system.
 
 
-<h1>1.3 FEATURES AND FUNCTIONALITIES<h1>
+## 1.3 FEATURES AND FUNCTIONALITIES
 
 	1.3.1 Ordering system
 In this system, employees will be able to view the latest menu and select the menu depending on the order taken from customers. It also contains price of each item ordered which will be forwarded to the payment management system.
@@ -40,22 +41,25 @@ The system will calculate the total value for the ordered food and drinks. Any d
 1.3.4 Menu
 Menu system will manage upload, edit and delete of the menus.
 
-<h1>1.4 MODELS, VIEWS, AND CONTROLLERS<h1>
+## 1.4 MODELS, VIEWS, AND CONTROLLERS
   
-  Model
-  
-  
-  Controller
-  
-  
-  View
+  1. Model
+  -Login
+  -admin
   
   
-  <h1>1.5 SEQUENCE DIAGRAM <h1>
+  2. Controller
+  
+  
+  3. View
+  -Chef
+  -Cashier
+  
+## 1.5 SEQUENCE DIAGRAM
   
   
   
-<h1>1.6 REFERENCES<h1>
+## 1.6 REFERENCES
      
 1.	Sam. Top 18 Database Projects Ideas for Students. Retrieved from https://www.lovelycoding.org/2013/11/top-18-database-projects-ideas-for.engineering-bca-mca-btech-bsc.html 
 
