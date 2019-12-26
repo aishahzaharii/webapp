@@ -10,11 +10,11 @@
 
 ## 1.1 INTRODUCTION
 
-Restaurant Management System is a system that provides service facility to the restaurant. This system will help restaurants to maintain the catalog for the list of food and drinks provided. The service provided by this system are for admin,waiter,chef and cashier.
+Restaurant Management System is a system that provides service facility to the restaurant. This system will help restaurants to maintain the catalog for the list of food and drinks provided. The service provided by this system is for admin, waiter, chef and cashier.
 
-Most small growing restaurants are currently using the traditional pen and paper methods to take orders. For example, a waiter will take orders from customers and write it on a piece of paper. That order will then be passed to two sections that is the cashier and the kitchen chef. This process itself is time consuming and inefficient. As such, there needs to be an app to ease this process. 
+Most small growing restaurants are currently using the traditional pen and paper methods to take orders. For example, a waiter will take orders from customers and write it on a piece of paper. That order will then be passed to two sections that is the cashier and the kitchen chef. This process itself is time consuming and inefficient. As such, there is in needs to be an application to ease this process and do the automated actions. 
 
-With this system, employees will be able to take orders and the order will be kept automatically to the kitchen and cashier sections. The total payment for the order will be calculated automatically. Other than that, admin will be able to add,delete and update the list of menus from catalog and manage the employee.
+With this system, employees will be able to take orders and the order will be kept automatically to the kitchen and cashier sections. The total payment for the order will be calculated automatically. Other than that, admin will be able to add, delete and update the list of menus from catalog and manage the employee.
 
 With this restaurant management system, ordering and reservation management will become easier and systematic. 
 
@@ -51,8 +51,6 @@ Menu system will manage upload, edit and delete of the menus.
   
   2. Controller
   -Login.java
-  
-  
   
   3. View
   -login.jsp
