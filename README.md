@@ -10,7 +10,7 @@
 
 ## 1.1 INTRODUCTION
 
-Restaurant Management System is a system that provides service facility to the restaurant. This system will help restaurants to maintain the catalog for the list of food and drinks provided. The service provided by this system is for admin, waiter, chef and cashier.
+Restaurant Management System is a system that provides service facility to the restaurant. This system will help restaurants to maintain the catalog for the list of food and drinks provided. The service provided by this system is for admin, employee and customer.
 
 Most small growing restaurants are currently using the traditional pen and paper methods to take orders. For example, a waiter will take orders from customers and write it on a piece of paper. That order will then be passed to two sections that is the cashier and the kitchen chef. This process itself is time consuming and inefficient. As such, there is in needs to be an application to ease this process and do the automated actions. 
 
@@ -23,7 +23,7 @@ With this restaurant management system, ordering and reservation management will
 The objective of Restaurant Management System:
 
 1.	The management of the restaurant will be more systematic and efficient.
-2.	To introduce more user-friendly in the process for admin,employee,chef and cashier.
+2.	To introduce more user-friendly in the process for admin,employee and customer.
 3.	To keep the update (add and delete) of the system.
 
 
@@ -32,14 +32,11 @@ The objective of Restaurant Management System:
 	1.3.1 Admin
 In this system, admin will be able to add,delete and update the details about employee and menu. Admin will change the detail about the staff and also menu for food and drink (code, name, price).
 
-	1.3.2 Table management system
-Table management system will display the list of available tables for new customers to be seated. Employee will be able to organize the customer’s table depends on how much people sitting at a table. When order comes in, the table will automatically not available to other customers. The table will be back available when payment has been made.
+	1.3.2 Employee
+For employee. they will be able to take the order from the customer. Employee also can update the order in the ordering form. Then, the order will be submitted to the kithcen chef for preparing the food and to the cashier for proceeding to the payment session. 
 
-	1.3.3 Payment system
-The system will calculate the total value for the ordered food and drinks. Any discounts extra service charge will also be calculated. After payment has been done, the system will generate receipt.
-
-        1.3.4 Menu
-Menu system will manage upload, edit and delete of the menus.
+	1.3.3 Customer
+Customer will order the food through this system and then the order will be passed to the employee. They also can view the menu of the food and cancel the order too. The system will calculate the total value for the ordered food and drinks. Any discounts extra service charge will also be calculated. After payment has been done, the system will generate receipt.
 
 ## 1.4 MODELS, VIEWS, AND CONTROLLERS
   
