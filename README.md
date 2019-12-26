@@ -67,10 +67,18 @@ Menu system will manage upload, edit and delete of the menus.
   
 ## 1.5 SEQUENCE DIAGRAM
 
-1.Admin
+1.Admin (Manager)
 -Login
 -Select Employee, Menu
 -Add, Delete and Update employee and menu details.
+
+2. Employee
+- Add, Update, Delete Employee
+
+3. User (Customer)
+- Order
+- View menu
+- Payment
   
   
   
